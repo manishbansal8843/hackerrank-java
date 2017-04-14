@@ -93,7 +93,7 @@ public class DijkstraShortestReach2 {
 	                int r = in.nextInt();
 	                dijkstraShortReach.g.setAj(x,y,r);
 	            }
-	            System.out.println(dijkstraShortReach.g);
+	           // System.out.println(dijkstraShortReach.g);
 	            int s = in.nextInt();
 	            dijkstraShortReach.source=s;
 	            dijkstraShortReach.distance[s]=0;
