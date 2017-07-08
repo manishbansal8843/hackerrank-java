@@ -32,4 +32,4 @@ https://www.hackerrank.com/challenges/dijkstrashortreach	|	https://github.com/ma
 
 https://www.hackerrank.com/challenges/coin-change		|	https://github.com/manishbansal8843/hackerrank-java/blob/master/Dashboard/Algorithm/dynamic-programming/CoinChangeProblem.java
 
-https://www.hackerrank.com/challenges/hackerland-radio-transmitters|	https://github.com/manishbansal8843/hackerrank-java/blob/master/Dashboard/Algorithm/search/HackerLandRadioTransmitters.java
+https://www.hackerrank.com/challenges/hackerland-radio-transmitters |	https://github.com/manishbansal8843/hackerrank-java/blob/master/Dashboard/Algorithm/search/HackerLandRadioTransmitters.java
